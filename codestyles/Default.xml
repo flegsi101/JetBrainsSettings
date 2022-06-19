@@ -1,4 +1,5 @@
 <code_scheme name="Default" version="173">
+  <option name="SOFT_MARGINS" value="100" />
   <TypeScriptCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
