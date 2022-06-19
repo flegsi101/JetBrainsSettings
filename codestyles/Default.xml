@@ -1,8 +1,8 @@
 <code_scheme name="Default" version="173">
-  <option name="SOFT_MARGINS" value="100" />
-  <TypeScriptCodeStyleSettings version="0">
-    <option name="FORCE_SEMICOLON_STYLE" value="true" />
-    <option name="USE_DOUBLE_QUOTES" value="false" />
-    <option name="FORCE_QUOTE_STYlE" value="true" />
-  </TypeScriptCodeStyleSettings>
+  <JetCodeStyleSettings>
+    <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
+  </JetCodeStyleSettings>
+  <codeStyleSettings language="kotlin">
+    <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
+  </codeStyleSettings>
 </code_scheme>
