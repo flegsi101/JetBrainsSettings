@@ -9,6 +9,7 @@
       <removed_mapping ext="qute.yaml" approved="true" type="Qute" />
       <removed_mapping ext="qute.yml" approved="true" type="Qute" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
+      <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
